@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Chapter1
-  * Section1.1
-    * [Word Embedding总结](chapter1/section1.1/word-embedding-zong-jie.md)
-  * Section1.2
-* Chapter2
+* [Word Embedding总结](chapter2/README.md)
+  * [Word2Vec](chapter2/word2vec.md)
+  * Glove
+* Untitled
 
